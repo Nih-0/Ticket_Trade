@@ -23,7 +23,7 @@ import io.jsonwebtoken.security.Keys;
 @Service
 public class JWTservice {
 	
-	private String secretkey="";
+	private String secretkey="Nihal123456789987654321";
 	
 	public JWTservice() throws NoSuchAlgorithmException
 	{
